@@ -2,6 +2,8 @@
 Uma interface visual moderna construída com HTML e CSS, inspirada no conceito de Bento Grid — um layout modular e visualmente equilibrado, muito utilizado em landing pages, dashboards e portfólios.
 
 📸 Preview
+![image](https://github.com/user-attachments/assets/dd236955-9770-49e7-953b-d03eb31f4266)
+
 ![image](https://github.com/user-attachments/assets/748a5958-eabe-445b-8e94-1ccd5466047c)
 
 🛠️ Tecnologias utilizadas
