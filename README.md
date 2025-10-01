@@ -1,6 +1,8 @@
 🧩 Bento Grid Design
 Uma interface visual moderna construída com HTML e CSS, inspirada no conceito de Bento Grid — um layout modular e visualmente equilibrado, muito utilizado em landing pages, dashboards e portfólios.
 
+Este site foi desenvolvido para um desafio do Frontend Mentor https://www.frontendmentor.io/challenges/bento-grid-RMydElrlOj
+
 📸 Preview
 ![image](https://github.com/user-attachments/assets/dd236955-9770-49e7-953b-d03eb31f4266)
 
